@@ -1,14 +1,20 @@
 {
   "schemaVersion": 1,
   "version": "3.2.0",
-  "buildId": "20260324063347",
-  "releasedAt": "2026-03-24T06:33:47.799Z",
+  "buildId": "20260324064454",
+  "releasedAt": "2026-03-24T06:44:54.687Z",
   "artifacts": {
     "client": {
       "file": "xBotCoper_v3.2.0.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.2.0.exe",
       "sha256": "1e42bbab8139e6cf607bb85088b0ceed598c9a08671edb0bfc1ae38387e1f427",
-      "size": 70958470
+      "size": 70958470,
+      "ea": {
+        "file": "xBotEA_v3.2.0.mq5",
+        "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v3.2.0.mq5",
+        "sha256": "167a17d5ce0b712cc2c06b30df41f08689b2fe88016f86fb80a3a512edefe471",
+        "size": 38248
+      }
     },
     "master": {
       "file": "xBotMaster_v3.2.0.exe",
@@ -20,7 +26,13 @@
       "file": "xBotServer_v3.2.0.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotServer_v3.2.0.exe",
       "sha256": "9f44c07b924d9e0bcfa04ae497126be7872deb4b13e72899c2e88dfe16ea366d",
-      "size": 70937578
+      "size": 70937578,
+      "ea": {
+        "file": "xBotMaster.mq5",
+        "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster.mq5",
+        "sha256": "0071c54c4355a5556283cf9c95fe8b7644f458f007951a1fbc4b5fdebfd6da92",
+        "size": 22365
+      }
     }
   }
 }
