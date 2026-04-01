@@ -1,30 +1,30 @@
 {
   "schemaVersion": 1,
-  "version": "3.2.0",
-  "buildId": "20260330011411",
-  "releasedAt": "2026-03-30T01:14:11.413Z",
+  "version": "3.2.1",
+  "buildId": "20260401042606",
+  "releasedAt": "2026-04-01T04:26:06.666Z",
   "artifacts": {
     "client": {
-      "file": "xBotCoper_v3.2.0.exe",
-      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.2.0.exe",
+      "file": "xBotCoper_v3.2.1.exe",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.2.1.exe",
       "sha256": "1bb0cc2986193730469adb64dc5880d81d94e7dc485cd7ecdecd4f8919672b59",
       "size": 70960064,
       "ea": {
-        "file": "xBotEA_v3.2.0.mq5",
-        "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v3.2.0.mq5",
-        "sha256": "167a17d5ce0b712cc2c06b30df41f08689b2fe88016f86fb80a3a512edefe471",
+        "file": "xBotEA_v3.2.1.mq5",
+        "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v3.2.1.mq5",
+        "sha256": "6c6f2e80df0cb94cfa91ffa2a5f9793e469170c9c7c998b595aa2b9b5c21ccc6",
         "size": 38248
       }
     },
     "master": {
-      "file": "xBotMaster_v3.2.0.exe",
-      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.2.0.exe",
-      "sha256": "e05fc7b951dda79626674ffd82f401c112c4c6e0e61b484b6b8de610cf2a2430",
-      "size": 70999384
+      "file": "xBotMaster_v3.2.1.exe",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.2.1.exe",
+      "sha256": "71e18cfef474a33938db12f172fbec331eeded783aa66f17e75f2ef052b3b939",
+      "size": 70999758
     },
     "bot": {
-      "file": "xBotServer_v3.2.0.exe",
-      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotServer_v3.2.0.exe",
+      "file": "xBotServer_v3.2.1.exe",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotServer_v3.2.1.exe",
       "sha256": "936805e0cd11ab13cd637842d3b40943ac0d6b85fc885a17580c6b9bbe4ce6df",
       "size": 70938722,
       "ea": {
