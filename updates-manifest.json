@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "3.2.2",
-  "buildId": "20260421094504",
-  "releasedAt": "2026-04-21T09:45:04.563Z",
+  "buildId": "20260421095443",
+  "releasedAt": "2026-04-21T09:54:43.296Z",
   "artifacts": {
     "client": {
       "file": "xBotCoper_v3.2.2.exe",
@@ -19,8 +19,8 @@
     "master": {
       "file": "xBotMaster_v3.2.2.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.2.2.exe",
-      "sha256": "abb472024f49523a702a5b0c7ac4c2f7aba3cf58de60a5457815b2b23eabea4f",
-      "size": 71131002
+      "sha256": "08d72e4783eb51da31c58c85d3c5e38ba911b2e9a75bc280e044e8484f2037e2",
+      "size": 71130608
     },
     "bot": {
       "file": "xBotServer_v3.2.2.exe",
