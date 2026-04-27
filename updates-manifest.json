@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "version": "3.2.2",
-  "buildId": "20260426170417",
-  "releasedAt": "2026-04-26T17:04:17.990Z",
+  "buildId": "20260427030239",
+  "releasedAt": "2026-04-27T03:02:39.691Z",
   "artifacts": {
     "client": {
       "file": "xBotCoper_v3.2.2.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.2.2.exe",
-      "sha256": "e697b7fbec937ef77fdff26fd3e74a99d7e98eb7b5ccf7c9c79a63622fe025c9",
-      "size": 70961776,
+      "sha256": "a282900ed6424b905a420415a4ae2ac8518688e628c1055b42f91d0cb76d2bfa",
+      "size": 70962308,
       "ea": {
         "file": "xBotEA_v3.2.2.mq5",
         "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v3.2.2.mq5",
