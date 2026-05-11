@@ -1,24 +1,27 @@
 {
   "schemaVersion": 1,
   "version": "3.3.3",
-  "buildId": "20260511143508",
-  "builtAt": "2026-05-11T14:35:08.016Z",
-  "releasedAt": "2026-05-11T14:35:08.016Z",
+  "buildId": "20260511162630",
+  "builtAt": "2026-05-11T16:26:30.697Z",
+  "releasedAt": "2026-05-11T16:26:30.697Z",
   "artifacts": {
     "client": {
       "file": "xBotCoper_v3.3.3.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.3.3.exe",
-      "sha256": "f9556d78b80518f10133c0fb4690e71b7763b55c44b0bc0a46c44d0a1d4c1262",
-      "size": 70975109
+      "sha256": "5fda6ca1647c10acd441b15c1dc28fbd4ff229245a47cf8c826e596ce472616a",
+      "size": 70975165,
+      "buildId": "20260511162630",
+      "builtAt": "2026-05-11T16:26:30.697Z",
+      "releasedAt": "2026-05-11T16:26:30.697Z"
     },
     "master": {
       "file": "xBotMaster_v3.3.3.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.3.3.exe",
-      "sha256": "917d5ba09171c6a0403378a6e2b4ded9cc53da2d4ed70039d4e441068f4d0d61",
-      "size": 71166599,
-      "buildId": "20260511143508",
-      "builtAt": "2026-05-11T14:35:08.016Z",
-      "releasedAt": "2026-05-11T14:35:08.016Z"
+      "sha256": "4f20c091b77b09f73956352aa875e8c96611ed3e1dc20f1c18a6e392f9c5099e",
+      "size": 71168458,
+      "buildId": "20260511162630",
+      "builtAt": "2026-05-11T16:26:30.697Z",
+      "releasedAt": "2026-05-11T16:26:30.697Z"
     },
     "bot": {
       "file": "xBotServer_v3.3.3.exe",
