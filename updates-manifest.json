@@ -1,33 +1,36 @@
 {
   "schemaVersion": 1,
   "version": "3.3.3",
-  "buildId": "20260512120126",
-  "builtAt": "2026-05-12T12:09:03.008Z",
-  "releasedAt": "2026-05-12T12:09:03.008Z",
+  "buildId": "20260512212510",
+  "builtAt": "2026-05-12T14:35:36.031Z",
+  "releasedAt": "2026-05-12T14:35:36.031Z",
   "artifacts": {
     "client": {
       "file": "xBotCoper_v3.3.3.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.3.3.exe",
-      "sha256": "5b002dfdd68a57ad6a8e1f765bee047ffafa1f8027ba6a622982d21901d77823",
-      "size": 70976383,
-      "buildId": "20260512020518",
-      "builtAt": "2026-05-12T02:05:18.224Z",
-      "releasedAt": "2026-05-12T02:05:18.224Z"
+      "sha256": "6078150ec0e059f945052b428ae0561463bd8616395c21c25ce98530e9a42cb7",
+      "size": 71200931,
+      "buildId": "20260512212510",
+      "builtAt": "2026-05-12T14:35:36.031Z",
+      "releasedAt": "2026-05-12T14:35:36.031Z"
     },
     "master": {
       "file": "xBotMaster_v3.3.3.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.3.3.exe",
-      "sha256": "31cb8d33399640612a77ec2851bd83939abfc6f0b17e5ca37399c952ba3fdea9",
-      "size": 71394466,
-      "buildId": "20260512120126",
-      "builtAt": "2026-05-12T12:09:03.008Z",
-      "releasedAt": "2026-05-12T12:09:03.008Z"
+      "sha256": "a1cb7aee8156c8c2573aeb7785007ca3eb34baebf06120f1383b624a830f99f2",
+      "size": 71395221,
+      "buildId": "20260512212510",
+      "builtAt": "2026-05-12T14:35:36.031Z",
+      "releasedAt": "2026-05-12T14:35:36.031Z"
     },
     "bot": {
       "file": "xBotServer_v3.3.3.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotServer_v3.3.3.exe",
-      "sha256": "83db7bb71c336cdbbbe0b3ec55f045eeeb12c9e2627733312bc813c4716b0c10",
-      "size": 70950902
+      "sha256": "548d2677aee79bce444988190edbf634887b82a74939d54f8ae0c01aa4e5b879",
+      "size": 71175717,
+      "buildId": "20260512212510",
+      "builtAt": "2026-05-12T14:35:36.031Z",
+      "releasedAt": "2026-05-12T14:35:36.031Z"
     }
   }
 }
