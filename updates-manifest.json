@@ -8,11 +8,11 @@
     "client": {
       "file": "xBotCoper_v3.3.4.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.3.4.exe",
-      "sha256": "47586cd2340e9f1781ad6c34040d55fdcaa53660f1b86e5dd1713c713a10ff7b",
-      "size": 71201255,
-      "buildId": "20260519160057",
-      "builtAt": "2026-05-19T16:00:57.772Z",
-      "releasedAt": "2026-05-19T16:00:57.772Z"
+      "sha256": "1a9f9dc31a2dc34ecbc96aa9e548c8c11c7f74552c984fc0a4e626adb99bc87e",
+      "size": 71201605,
+      "buildId": "20260519230637",
+      "builtAt": "2026-05-19T23:06:37.131Z",
+      "releasedAt": "2026-05-19T23:06:37.131Z"
     },
     "master": {
       "file": "xBotMaster_v3.3.4.exe",
