@@ -1,36 +1,63 @@
 {
   "schemaVersion": 1,
-  "version": "3.3.4",
-  "buildId": "20260521075447",
-  "builtAt": "2026-05-21T08:01:38.759Z",
-  "releasedAt": "2026-05-21T08:01:38.759Z",
+  "version": "3.3.5",
+  "buildId": "20260624061231",
+  "builtAt": "2026-06-24T06:12:31.492Z",
+  "releasedAt": "2026-06-24T06:12:31.492Z",
   "artifacts": {
     "client": {
-      "file": "xBotCoper_v3.3.4.exe",
-      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.3.4.exe",
-      "sha256": "1a9f9dc31a2dc34ecbc96aa9e548c8c11c7f74552c984fc0a4e626adb99bc87e",
-      "size": 71201605,
-      "buildId": "20260519230637",
-      "builtAt": "2026-05-19T23:06:37.131Z",
-      "releasedAt": "2026-05-19T23:06:37.131Z"
+      "file": "xBotCoper_v3.3.5.exe",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.3.5.exe",
+      "sha256": "7c455f624d2d9b3705e7f10e21238f897447bfd2b84ea6d5498ab58ecd5572f6",
+      "size": 71201468,
+      "buildId": "20260624061231",
+      "builtAt": "2026-06-24T06:12:31.492Z",
+      "releasedAt": "2026-06-24T06:12:31.492Z"
     },
     "master": {
-      "file": "xBotMaster_v3.3.4.exe",
-      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.3.4.exe",
-      "sha256": "45ca617fa6033aeae9077895aeb7f47005f4e1a6f8baf319fbb332f695e26639",
-      "size": 71418362,
-      "buildId": "20260521075447",
-      "builtAt": "2026-05-21T08:01:38.759Z",
-      "releasedAt": "2026-05-21T08:01:38.759Z"
+      "file": "xBotMaster_v3.3.5.exe",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.3.5.exe",
+      "sha256": "cfb18f9ddf956fa5fd1ea38a9c254b30fd9d19895f5a8f34449d94fd850d65ea",
+      "size": 71418516,
+      "buildId": "20260624061231",
+      "builtAt": "2026-06-24T06:12:31.492Z",
+      "releasedAt": "2026-06-24T06:12:31.492Z"
     },
     "bot": {
-      "file": "xBotServer_v3.3.4.exe",
-      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotServer_v3.3.4.exe",
-      "sha256": "28eb731ad80be7a6fbdcc58a95e589be872c9c21c779c1891f7bc4183f06d04b",
-      "size": 71176095,
-      "buildId": "20260513053545",
-      "builtAt": "2026-05-12T22:41:47.049Z",
-      "releasedAt": "2026-05-12T22:41:47.049Z"
+      "file": "xBotServer_v3.3.5.exe",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotServer_v3.3.5.exe",
+      "sha256": "fa3ea25e1b6641449e6f072fb12babf04bfbe20d059b8b69d72af5fda588e4d1",
+      "size": 71175877,
+      "buildId": "20260624061231",
+      "builtAt": "2026-06-24T06:12:31.492Z",
+      "releasedAt": "2026-06-24T06:12:31.492Z"
+    },
+    "eaLegacy": {
+      "file": "xBotEA_v3.3.3.ex5",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v3.3.3.ex5",
+      "sha256": "9107d8cb7fdf716e38c2b733627b01de62d71642f3fbdda3e6fc48242c1ac38b",
+      "size": 80794,
+      "buildId": "20260624061231",
+      "builtAt": "2026-06-24T06:12:31.492Z",
+      "releasedAt": "2026-06-24T06:12:31.492Z"
+    },
+    "eaModern": {
+      "file": "xBotEA_v4.0.1.ex5",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v4.0.1.ex5",
+      "sha256": "61fa17dd9e57054343f102ebad4c443d590e1361d2e70ca7bfe6eb0fceb27ed1",
+      "size": 129140,
+      "buildId": "20260624061231",
+      "builtAt": "2026-06-24T06:12:31.492Z",
+      "releasedAt": "2026-06-24T06:12:31.492Z"
+    },
+    "eaExperimental": {
+      "file": "xBotEA_v4.1.1.ex5",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v4.1.1.ex5",
+      "sha256": "d76a104d238d29de1f2292e8bc9512b3d1df93773253ec1800673472d41dfec5",
+      "size": 136424,
+      "buildId": "20260624061231",
+      "builtAt": "2026-06-24T06:12:31.492Z",
+      "releasedAt": "2026-06-24T06:12:31.492Z"
     }
   }
 }
