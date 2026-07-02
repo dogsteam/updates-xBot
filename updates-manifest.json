@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "version": "3.3.5",
-  "buildId": "20260629053108",
-  "builtAt": "2026-06-29T05:31:08.130Z",
-  "releasedAt": "2026-06-29T05:31:08.130Z",
+  "buildId": "20260702030714",
+  "builtAt": "2026-07-02T03:07:14.000Z",
+  "releasedAt": "2026-07-02T03:07:14.000Z",
   "artifacts": {
     "client": {
       "file": "xBotCoper_v3.3.5.exe",
@@ -51,13 +51,13 @@
       "releasedAt": "2026-06-24T06:12:31.492Z"
     },
     "eaExperimental": {
-      "file": "xBotEA_v4.1.1.ex5",
-      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v4.1.1.ex5",
-      "sha256": "d76a104d238d29de1f2292e8bc9512b3d1df93773253ec1800673472d41dfec5",
-      "size": 136424,
-      "buildId": "20260624061231",
-      "builtAt": "2026-06-24T06:12:31.492Z",
-      "releasedAt": "2026-06-24T06:12:31.492Z"
+      "file": "xBotEA_v4.1.2.ex5",
+      "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotEA_v4.1.2.ex5",
+      "sha256": "8ea56098fa75bb4da0ff8fa145ae1b0a8d9c1c14555ad9d89161d12de8a4f649",
+      "size": 132644,
+      "buildId": "20260702030714",
+      "builtAt": "2026-07-02T03:07:14.000Z",
+      "releasedAt": "2026-07-02T03:07:14.000Z"
     },
     "eaBasketTp": {
       "file": "xBotEA_v4.2.1.ex5",
