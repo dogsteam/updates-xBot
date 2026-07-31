@@ -1,36 +1,36 @@
 {
   "schemaVersion": 1,
   "version": "3.3.5",
-  "buildId": "20260702030714",
-  "builtAt": "2026-07-02T03:07:14.000Z",
-  "releasedAt": "2026-07-02T03:07:14.000Z",
+  "buildId": "20260731075111",
+  "builtAt": "2026-07-31T07:51:11.386Z",
+  "releasedAt": "2026-07-31T07:51:11.386Z",
   "artifacts": {
     "client": {
       "file": "xBotCoper_v3.3.5.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotCoper_v3.3.5.exe",
-      "sha256": "7c455f624d2d9b3705e7f10e21238f897447bfd2b84ea6d5498ab58ecd5572f6",
-      "size": 71201468,
-      "buildId": "20260624061231",
-      "builtAt": "2026-06-24T06:12:31.492Z",
-      "releasedAt": "2026-06-24T06:12:31.492Z"
+      "sha256": "9a00f81ace98cfc2396d21ec127213cd053a32dd83626dac9f3923013357e077",
+      "size": 70965340,
+      "buildId": "20260731075111",
+      "builtAt": "2026-07-31T07:51:11.386Z",
+      "releasedAt": "2026-07-31T07:51:11.386Z"
     },
     "master": {
       "file": "xBotMaster_v3.3.5.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotMaster_v3.3.5.exe",
-      "sha256": "cfb18f9ddf956fa5fd1ea38a9c254b30fd9d19895f5a8f34449d94fd850d65ea",
-      "size": 71418516,
-      "buildId": "20260624061231",
-      "builtAt": "2026-06-24T06:12:31.492Z",
-      "releasedAt": "2026-06-24T06:12:31.492Z"
+      "sha256": "ff2eaebbfdde3ae883a651c7191b92a38db62c3208b45cf4ded774f033e11a25",
+      "size": 71184115,
+      "buildId": "20260731075111",
+      "builtAt": "2026-07-31T07:51:11.386Z",
+      "releasedAt": "2026-07-31T07:51:11.386Z"
     },
     "bot": {
       "file": "xBotServer_v3.3.5.exe",
       "url": "https://raw.githubusercontent.com/dogsteam/updates-xBot/main/xBotServer_v3.3.5.exe",
-      "sha256": "fa3ea25e1b6641449e6f072fb12babf04bfbe20d059b8b69d72af5fda588e4d1",
-      "size": 71175877,
-      "buildId": "20260624061231",
-      "builtAt": "2026-06-24T06:12:31.492Z",
-      "releasedAt": "2026-06-24T06:12:31.492Z"
+      "sha256": "8ab2f32296410b3107b975b1f10fe91dbf78af3a55f1e060c92f6d331ac379ab",
+      "size": 70939077,
+      "buildId": "20260731075111",
+      "builtAt": "2026-07-31T07:51:11.386Z",
+      "releasedAt": "2026-07-31T07:51:11.386Z"
     },
     "eaLegacy": {
       "file": "xBotEA_v3.3.3.ex5",
